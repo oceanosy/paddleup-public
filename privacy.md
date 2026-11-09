@@ -1,6 +1,12 @@
 # 패들업 개인정보처리방침
 
-시행일: 2026-10-29
+시행일: 2026-10-29 · 버전: 20261029
+
+운영: PaddleUP by Sean Oh · 문의: sean.oh.sy@gmail.com
+
+설명 보완: 2026-11-10(KST). 기존 회원 기능의 처리 항목·공개 범위·삭제 요청 방법을 구체화한 안내이며, 위 시행일과 버전은 유지됩니다.
+
+[English privacy policy](privacy-en-20261029.html) · [계정 삭제 요청](privacy-20261029.html#account-deletion)
 
 ## 적용 범위와 변경 안내
 
@@ -16,7 +22,19 @@ Apple·Google·카카오에서 제공하는 계정 식별정보, 검증된 이�
 
 ## 회원 기능과 공개 범위
 
-회원이 입력한 소개·지역·경기 기록·크루·게시물·댓글·채팅·신고·차단 정보를 해당 기능 제공 및 안전한 운영에 사용합니다. 이메일과 로그인 계정 식별정보는 공개 프로필에 표시하지 않습니다. 닉네임과 선택한 사진은 다른 회원에게 표시될 수 있습니다. 콘텐츠의 공개 범위는 기능 화면과 소속 크루 등에 따라 달라집니다. 경기 기록은 소유자 계정으로 관리합니다. 가입 시 카카오 친구목록·카카오톡 메시지·캘린더 권한을 요청하지 않습니다.
+회원이 입력한 소개·지역·경기 기록·크루·게시물·댓글·채팅·신고·차단 정보를 해당 기능 제공 및 안전한 운영에 사용합니다. 이메일과 로그인 계정 식별정보는 공개 프로필에 표시하지 않습니다. 닉네임과 선택한 사진은 다른 회원에게 표시될 수 있습니다. 콘텐츠의 공개 범위는 기능 화면과 소속 크루 등에 따라 달라집니다. 경기 기록은 소유자 계정으로 관리합니다. 가입 시 카카오 친구목록·카카오톡 메시지·캘린더 권한을 요청하지 않습니다. 좋아요·팔로우·크루 가입·투표 등 앱 내 활동과 회원 간 관계를 저장하여 해당 소셜 기능을 제공합니다. 크루 채팅은 메시지 내용과 작성자·크루 정보를 저장하여 해당 크루 회원에게 전달합니다. 이는 기기 주소록을 읽는 기능이 아닙니다.
+
+## 직접 입력한 크루·모임 지역
+
+크루와 VS 모임에서 직접 선택하거나 입력한 국가·지역, 시·도, 도시·활동 지역 및 장소·코트 이름을 저장하여 크루·모임 표시와 검색에 사용합니다. 이 정보는 해당 크루나 모임을 볼 권한이 있는 다른 회원에게 표시되고 검색될 수 있습니다. 이 기능은 기기의 GPS나 IP 주소로 위치를 추정하지 않으며, 거주지 주소를 요구하지 않습니다. 선택한 국가는 앱 표시 언어를 결정하지 않습니다.
+
+### Locations you enter for crews and meetups
+
+We store the country or territory, province or city, city or playing area, and venue or court name that you select or enter for crews and VS meetups to display them and support searches. Other members who are permitted to view the relevant crew or meetup can see and search this information. This feature does not infer your location from device GPS or your IP address and does not require your home address. The selected country does not determine the app display language.
+
+## 계정 삭제 요청
+
+앱에서 회원 홈 → 프로필 → 계정 관리 → 탈퇴를 선택하고 확인하면 계정 삭제를 요청할 수 있습니다. 앱에 접근할 수 없어도 sean.oh.sy@gmail.com으로 PaddleUP 계정 삭제를 요청할 수 있습니다. 삭제를 원하는 계정의 로그인 이메일과 로그인 제공자(Apple·Google·카카오)를 알려 주세요. 비밀번호나 인증 코드는 보내지 마세요. 본인 확인 후 삭제 절차를 안내합니다. 삭제 범위와 남을 수 있는 정보, 처리 기간의 기준은 아래 ‘보관과 탈퇴’, ‘카카오 가입 미완료·삭제 확인’, ‘처리 위탁·처리 위치’에 설명되어 있습니다.
 
 ## 보관과 탈퇴
 
