@@ -6,6 +6,8 @@ Effective date: October 29, 2026 · Version: 20261029
 
 Clarified November 10, 2026 (KST): more detail about existing member-feature data, visibility and deletion requests. The effective date and version remain unchanged.
 
+Clarified November 13, 2026 (KST): this update clarifies existing processing of crew relationships, chat and reports, and the transmission of search filters to the server and their possible inclusion in operational and diagnostic logs. This clarification does not expand the scope of collection or purposes of use. The effective date and version remain unchanged.
+
 ## Scope and notice of changes
 
 This policy applies to PaddleUP for Android and iOS and its connected watch features. From October 29, 2026, it includes privacy practices for member features. The guest scoreboard remains available without signing in. Member features depend on the app version and the readiness of connected services. Publishing this policy does not mean that every feature has launched.
@@ -20,11 +22,11 @@ Account identifiers, verified email addresses and nicknames provided by Apple, G
 
 ## Member features and visibility
 
-We use the bio, region, match records, crews, posts, comments, chat, reports and blocking information you enter to provide those features and operate the service safely. Email addresses and sign-in account identifiers are not displayed in public profiles. Nicknames and selected photos may be displayed to other members. Content visibility depends on the feature screen and crew membership, among other factors. Match records are managed under their owner’s account. Signup does not request access to Kakao friend lists, KakaoTalk messages or calendars. We store in-app activity and member relationships, such as likes, follows, crew membership and votes, to provide those social features. Crew chat stores message content and author and crew information to deliver messages to members of that crew. These features do not read your device’s address book.
+We use the bio, region, match records, crews, posts, comments, chat, reports and blocking information you enter to provide those features and operate the service safely. Email addresses and sign-in account identifiers are not displayed in public profiles. Nicknames and selected photos may be displayed to other members. Content visibility depends on the feature screen and crew membership, among other factors. Match records are managed under their owner’s account. Signup does not request access to Kakao friend lists, KakaoTalk messages or calendars. We store in-app activity and member relationships, such as likes, follows, crew membership and votes, to provide those social features. Crew chat stores message content and author and crew information to deliver messages to members of that crew. These features do not read your device’s address book. For reports, we store the reason, reporting account identifier, identifier of the reported content and handling status to respond to reports and operate the service safely.
 
 ## Locations you enter for crews and meetups
 
-We store the country or territory, province or city, city or playing area, and venue or court name that you select or enter for crews and VS meetups to display them and support searches. Other members who are permitted to view the relevant crew or meetup can see and search this information. This feature does not infer your location from device GPS or your IP address and does not require your home address. The selected country does not determine the app display language.
+We store the country or territory, province or city, city or playing area, and venue or court name that you select or enter for crews and VS meetups to display them and support searches. Other members who are permitted to view the relevant crew or meetup can see and search this information. This feature does not infer your location from device GPS or your IP address and does not require your home address. The selected country does not determine the app display language. The country, region and filters you select or enter when searching for crews and match meetups are sent to our server to provide search results. Search requests may also appear in operational logs used to operate the service and diagnose errors.
 
 ## Request account deletion
 

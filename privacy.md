@@ -6,6 +6,8 @@
 
 설명 보완: 2026-11-10(KST). 기존 회원 기능의 처리 항목·공개 범위·삭제 요청 방법을 구체화한 안내이며, 위 시행일과 버전은 유지됩니다.
 
+설명 보완: 2026-11-13(KST). 기존 크루 관계·채팅·신고 처리와 검색 조건의 서버 전송 및 운영·오류 진단 로그에 관한 설명을 명확히 했습니다. 이번 설명 보완으로 수집 범위나 이용 목적을 확대하지 않으며, 시행일과 버전은 유지됩니다.
+
 [English privacy policy](privacy-en-20261029.html) · [계정 삭제 요청](privacy-20261029.html#account-deletion)
 
 ## 적용 범위와 변경 안내
@@ -22,15 +24,15 @@ Apple·Google·카카오에서 제공하는 계정 식별정보, 검증된 이�
 
 ## 회원 기능과 공개 범위
 
-회원이 입력한 소개·지역·경기 기록·크루·게시물·댓글·채팅·신고·차단 정보를 해당 기능 제공 및 안전한 운영에 사용합니다. 이메일과 로그인 계정 식별정보는 공개 프로필에 표시하지 않습니다. 닉네임과 선택한 사진은 다른 회원에게 표시될 수 있습니다. 콘텐츠의 공개 범위는 기능 화면과 소속 크루 등에 따라 달라집니다. 경기 기록은 소유자 계정으로 관리합니다. 가입 시 카카오 친구목록·카카오톡 메시지·캘린더 권한을 요청하지 않습니다. 좋아요·팔로우·크루 가입·투표 등 앱 내 활동과 회원 간 관계를 저장하여 해당 소셜 기능을 제공합니다. 크루 채팅은 메시지 내용과 작성자·크루 정보를 저장하여 해당 크루 회원에게 전달합니다. 이는 기기 주소록을 읽는 기능이 아닙니다.
+회원이 입력한 소개·지역·경기 기록·크루·게시물·댓글·채팅·신고·차단 정보를 해당 기능 제공 및 안전한 운영에 사용합니다. 이메일과 로그인 계정 식별정보는 공개 프로필에 표시하지 않습니다. 닉네임과 선택한 사진은 다른 회원에게 표시될 수 있습니다. 콘텐츠의 공개 범위는 기능 화면과 소속 크루 등에 따라 달라집니다. 경기 기록은 소유자 계정으로 관리합니다. 가입 시 카카오 친구목록·카카오톡 메시지·캘린더 권한을 요청하지 않습니다. 좋아요·팔로우·크루 가입·투표 등 앱 내 활동과 회원 간 관계를 저장하여 해당 소셜 기능을 제공합니다. 크루 채팅은 메시지 내용과 작성자·크루 정보를 저장하여 해당 크루 회원에게 전달합니다. 이는 기기 주소록을 읽는 기능이 아닙니다. 신고 기능에서는 신고 사유, 신고자 계정 식별자, 신고 대상 식별자 및 처리 상태를 저장하여 신고에 대응하고 서비스를 안전하게 운영합니다.
 
 ## 직접 입력한 크루·모임 지역
 
-크루와 VS 모임에서 직접 선택하거나 입력한 국가·지역, 시·도, 도시·활동 지역 및 장소·코트 이름을 저장하여 크루·모임 표시와 검색에 사용합니다. 이 정보는 해당 크루나 모임을 볼 권한이 있는 다른 회원에게 표시되고 검색될 수 있습니다. 이 기능은 기기의 GPS나 IP 주소로 위치를 추정하지 않으며, 거주지 주소를 요구하지 않습니다. 선택한 국가는 앱 표시 언어를 결정하지 않습니다.
+크루와 VS 모임에서 직접 선택하거나 입력한 국가·지역, 시·도, 도시·활동 지역 및 장소·코트 이름을 저장하여 크루·모임 표시와 검색에 사용합니다. 이 정보는 해당 크루나 모임을 볼 권한이 있는 다른 회원에게 표시되고 검색될 수 있습니다. 이 기능은 기기의 GPS나 IP 주소로 위치를 추정하지 않으며, 거주지 주소를 요구하지 않습니다. 선택한 국가는 앱 표시 언어를 결정하지 않습니다. 크루와 경기 모임을 검색할 때 선택하거나 입력한 국가, 지역 및 검색 조건은 검색 결과를 제공하기 위해 서버로 전송됩니다. 검색 요청은 서비스 운영과 오류 진단을 위한 운영 로그에 포함될 수 있습니다.
 
 ### Locations you enter for crews and meetups
 
-We store the country or territory, province or city, city or playing area, and venue or court name that you select or enter for crews and VS meetups to display them and support searches. Other members who are permitted to view the relevant crew or meetup can see and search this information. This feature does not infer your location from device GPS or your IP address and does not require your home address. The selected country does not determine the app display language.
+We store the country or territory, province or city, city or playing area, and venue or court name that you select or enter for crews and VS meetups to display them and support searches. Other members who are permitted to view the relevant crew or meetup can see and search this information. This feature does not infer your location from device GPS or your IP address and does not require your home address. The selected country does not determine the app display language. The country, region and filters you select or enter when searching for crews and match meetups are sent to our server to provide search results. Search requests may also appear in operational logs used to operate the service and diagnose errors.
 
 ## 계정 삭제 요청
 
